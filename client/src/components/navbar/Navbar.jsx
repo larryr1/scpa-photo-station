@@ -4,7 +4,7 @@ import './Navbar.css';
 
 export const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-spartan-red">
+    <nav className="navbar navbar-expand-sm navbar-dark bg-spartan-red">
     <div className="container-fluid">
       <a className="navbar-brand" href="#">SCPA Photo Station</a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
